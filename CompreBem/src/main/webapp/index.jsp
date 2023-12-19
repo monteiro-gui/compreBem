@@ -50,10 +50,10 @@
             <button type="button" class="btn btn-link"><a href="#">Localização</a></button>
           </li>
         </ul>
-        <button class="p-2 m-4 me-5 ms-5 bg-light" id="auth"><i class="fa-regular fa-user"></i><a href="./login.jsp">Entrar</a></button>
+        <button class="p-2 m-4 me-5 ms-5 bg-light" id="auth"><a href="login.jsp"><i class="fa-regular fa-user"></i></a><a href="login.jsp">Entrar</a></button>
         <div class="keep-products">
-          <i class="fa-regular fa-heart p-2 m-1"></i>
-          <i class="fa-solid fa-bag-shopping p-2 m-1"></i>
+          <a href="login.jsp"><i class="fa-regular fa-heart p-2 m-1"></i></a>
+          <a href="login.jsp"><i class="fa-solid fa-bag-shopping p-2 m-1"></i></a>
         </div>
       </div>
     </nav>
